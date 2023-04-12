@@ -1,4 +1,4 @@
-# glantsov
+# go-gitlab-pipeline
 
 Spin the script across multiple projects on gitlab:
 
